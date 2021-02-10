@@ -72,6 +72,6 @@ highlight_name: true
 
 Yantao Wang is a Ph.D of Mathematics in  Southern University of Science and Technology. His research interests  include population genetics, math biology and partial differential equations.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
