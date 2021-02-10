@@ -30,6 +30,7 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+active: false
 
 design:
   # Choose a view for the listings:
