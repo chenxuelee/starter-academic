@@ -18,19 +18,19 @@
   url = "#projects"
   weight = 30
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 40
+# [[main]]
+ # name = "Talks"
+#  url = "#talks"
+#  weight = 40
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Minilib"
+  url = "https://minilib.yantaow.com"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

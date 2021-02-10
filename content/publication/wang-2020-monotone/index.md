@@ -6,7 +6,7 @@ title: Monotone and nonmonotone clines with partial panmixia across a geographic
 subtitle: ''
 summary: ''
 authors:
-- Yantao Wang
+- admin
 - Linlin Su
 tags: []
 categories: []

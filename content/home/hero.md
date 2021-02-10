@@ -2,17 +2,16 @@
 widget: hero
 headless: true
 weight: 10
-title: Go Go Go!
-hero_media: hero-academic.png
-cta:
-  label: '**Climbing the  Science**'
-  url: https://wowchemy.com/templates/
-cta_alt:
-  label: Ask a question
-  url: https://discord.gg/z8wNYzb
-cta_note:
-  label: >-
-    
+title:  1
+#hero_media: hero-academic.png
+#cta:
+#  label: '**Climbing the  Science**'
+#  url: https://wowchemy.com/templates/
+#cta_alt:
+ # label: Ask a question
+ # url: https://discord.gg/z8wNYzb
+
+active: false   
 design:
   background:
     gradient_end: '#1976d2'

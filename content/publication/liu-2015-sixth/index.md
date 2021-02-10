@@ -9,7 +9,7 @@ authors:
 - Yu-Jiang Wu
 - Jin-Yun Yuan
 - Raimundo JB
-- Yan-Tao Wang de Sampaio
+- admin
 tags: []
 categories: []
 date: '2015-01-01'

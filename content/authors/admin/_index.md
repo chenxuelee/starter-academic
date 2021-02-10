@@ -1,38 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yantao Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D of Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Southern University of Science and Technology of China
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include population genetics, math biology and partial differential equations.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Population Genetics
+- Math Biology
+- Partial Differential Equations
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Mathematics
+    institution: Southern University of Science and Technology of China
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MSc in Mathematics
+    institution: Southern University of Science and Technology of China
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Mathematics
+    institution: Southern University of Science and Technology of China
     year: 2008
 
 # Social/Academic Networking
@@ -67,10 +67,10 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yantao Wang is a Ph.D of Mathematics in  Southern University of Science and Technology. His research interests  include population genetics, math biology and partial differential equations.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 

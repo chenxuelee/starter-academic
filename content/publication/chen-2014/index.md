@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Minghua Chen
-- Yantao Wang
+- admin
 - Xiao Cheng
 - Weihua Deng
 tags: []
