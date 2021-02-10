@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: 
+title: Go Go Go!
 hero_media: hero-academic.png
 cta:
   label: '**Climbing the  Science**'
